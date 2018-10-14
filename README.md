@@ -1,4 +1,4 @@
-# Create a FullStack React/Express/MongoDB app running in isolated Docker containers
+# Create a FullStack React/Express/MongoDB app using Docker
 
 This repository has the code to support a tutorial that I created on Medium called Create a FullStack React/Express/MongoDB app running in isolated Docker containers
 .
